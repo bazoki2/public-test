@@ -1,12 +1,16 @@
+﻿using System;
+
 namespace HelloWorld
 {
-    public class Program
+    class Program
     {
-        public void Main(string args[])
+        static void Main(string[] args)
         {
-            //TODO: Test
+            //TODO: Test 
             //TOOD: AKIAIOSFODNN7EXAMPLE
             //TODO2: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+
+            Console.WriteLine("Hello World!");
         }
     }
 }
